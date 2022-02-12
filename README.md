@@ -1,2 +1,2 @@
-# discord_onlyawp
-Discord bot for onlyawp.ru
+# Simple discord bot for onlyawp.ru
+Upload maybe late.
